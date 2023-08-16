@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shaktiman README
 
 ## Working with Markdown
@@ -14,3 +15,7 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# ShaktiMan-VS-Code-color-Theme-2023
+ShaktiMan VS Code color Theme 2023 v1.1
+>>>>>>> 682c9cb0e299d8374d22f5d134f3357df7009672
