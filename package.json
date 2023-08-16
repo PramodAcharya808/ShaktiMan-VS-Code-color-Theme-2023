@@ -1,0 +1,21 @@
+{
+  "name": "shaktiman",
+  "displayName": "ShatiMan VS Code theme",
+  "description": "ShaktiMan Indian IronMan VS Code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ShaktiMan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ShaktiMan-color-theme.json"
+      }
+    ]
+  }
+}
