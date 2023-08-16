@@ -1,6 +1,7 @@
-{
+ {
 	"name": "ShaktiMan",
 	"colors": {
+		"window.activeBorder": "#ff0000",
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
@@ -15,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#00ffc861"
 			}
 		},
 		{
