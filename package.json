@@ -2,7 +2,11 @@
   "name": "shaktiman",
   "displayName": "ShatiMan VS Code theme",
   "description": "ShaktiMan Indian IronMan VS Code theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PramodAcharya808/ShaktiMan-VS-Code-color-Theme-2023"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
